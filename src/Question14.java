@@ -48,6 +48,7 @@ class Oval implements Shape{
 class Rect implements Shape{
     private int x,y;
 
+
     Rect(int x, int y){
         this.x = x;
         this.y = y;
